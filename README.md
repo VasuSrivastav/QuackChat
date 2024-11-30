@@ -1,5 +1,9 @@
 # ✨ Full Stack Realtime Chat App(QuackChat) ✨
 
+https://github.com/user-attachments/assets/d0e05a92-574e-4da5-a35a-8ed76a9eba0c
+
+
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
